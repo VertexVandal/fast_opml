@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.linkedProjects": ["native/fastopml/Cargo.toml"]
+}
+  
